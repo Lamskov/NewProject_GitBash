@@ -1,6 +1,6 @@
 public class GitBashTest {
     public static void main(String[] args) {
-        System.out.println("GitBashTest_1");
-        System.out.println("GitBashTest_2");
+        System.out.println("Привет, Git и GitHub!");
+        System.out.println("Я начинаю изучение Java!");
     }
 }
